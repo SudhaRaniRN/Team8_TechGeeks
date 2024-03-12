@@ -1,0 +1,10 @@
+program_name,program_status,program_description,batch_description,batch_name,batch_no_of_classes,batch_status,userComments,userEduPg,userEduUg,userFirstName,userLastName,userLinkedinUrl,userLocation,status,userLoginEmail,userMiddleName,userPhoneNumber,roleId,userRoleStatus,userTimeZone,userVisaStatus
+Mar24-TechGeeks-SDET-,Ok,Software Development Engineer in Test,Api Testing Postman,,9,Active,,,,,,,,,,,,,,,
+,Active,Software Development Engineer in Test,,,,,,,,,,,GA,,,,,,,,
+Mar24-TechGeeks-SDET-,,Software Development Engineer in Test,Api Testing Postman,March24-TechGeeks-SDET-SDET@01&,9,Active,USer Location,MCA,BBA,TechGeeks,Sudha,,TX,OK,jhon@ae12346.km,A,1762326950,R01,Active,EST,H4
+,,Software Development Engineer in Test,Api Testing Postman,,1201452204,Active,Status Invalid,MS,BSC,TechGeeks,Aish,www.link.com,NY,Active,jhon@ae12347.km,B,1762326950,R02,Active,MST,H4-EAD
+Mar24-TechGeeks-SDET-,Active,,Api Testing Postman,March24-TechGeeks-SDET-SDET01-2111,9,OK,Visa Valid,ME,BCOM,TechGeeks,Sree,www.linkedin.com/johncena,VA,Active,jhon@ae12348.km,C,1762326950,R03,Active,CST,USA
+,,,,March24-TechGeeks-SDET-SDET01-2111,9,Active,Linked In ,MCOM,BA,TechGeeks,Saranya,www.linkedin.com/kara,PA,Active,jhon@ae12395.km,B,1762326950,Admin,Active,EST,GC-EAD
+Mar24-TechGeeks-SDET-,Active,Software Development Engineer in Test,SDET Batch,March24-TechGeeks-SDET-SDET01-,25,Active,Good Score,mba,ba,TechGeeks,Priya,www.linkedin.com/johncena,MI,Active,jhon@ae12341.km,L,9998887767,R01,Active,EST,H4
+Mar24-TechGeeks-DA-,Active,Data Analytics,DA Batch,March24-TechGeeks-DA-SDET01-,20,Active,No Scroe,ME,puc,TechGeeks,Priyanka,www.linkedin.com/kara,CA,Active,jkk@mnp445.in,NA,9998887766,R02,Active,MST,H4-EAD
+Mar24-TechGeeks-DVLPR-,Active,Angular Front End Development,Developer Batch,March24-TechGeeks-DVLPR-SDET01-,15,Active,low Score,MCom,bcom,TechGeeks,TeamLead,www.linkedin.com/peanut,IL,Active,butte4145r@vxyz.com,NA,9998887765,R03,Active,CST,H1B
