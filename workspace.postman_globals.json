@@ -1,0 +1,230 @@
+{
+	"id": "1110257d-c6c7-4ab8-8937-5ed6d6a7e59e",
+	"values": [
+		{
+			"key": "BaseURL",
+			"value": "https://lms-marchapi-hackathon-a258d2bbd43b.herokuapp.com/lms",
+			"enabled": true
+		},
+		{
+			"key": "Bearer-token",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "password",
+			"value": "Numpyninja@1",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "userLoginEmailId",
+			"value": "sdetorganizers@gmail.com",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "status",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "statusValues",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "InvalidUserID",
+			"value": "0000",
+			"enabled": true
+		},
+		{
+			"key": "Invalid-RoleID",
+			"value": "000",
+			"enabled": true
+		},
+		{
+			"key": "skipProgramRequest",
+			"value": "false",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "userId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "programId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "programName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "programId1",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "programStatus",
+			"value": "Active",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "programDescription",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "g_programId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "batchId",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "batchName",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "batchId2",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "batchName2",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "searchString",
+			"value": "TechGeeks",
+			"enabled": true
+		},
+		{
+			"key": "CreateBatchName",
+			"value": "March24-TechGeeks-SDET-SDET01",
+			"enabled": true
+		},
+		{
+			"key": "batchStatus",
+			"value": "Active",
+			"enabled": true
+		},
+		{
+			"key": "CreateProgramName",
+			"value": "March24-TechGeeks-SDET-",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "ProgramDescriptions",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "UpdatebatchDescription",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "UpdatebatchNoOfClasses",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "jsonBody",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "programId_JSON",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "InactiveProgramId",
+			"value": "16227",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "InvalidProgramId",
+			"value": "00000",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "InvalidBatchId",
+			"value": "111111",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "InvalidBatchName",
+			"value": "&**4",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "InvalidsearchString",
+			"value": "&",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "programName1",
+			"value": "programName1",
+			"enabled": true
+		},
+		{
+			"key": "roleId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "InvalidProgramName",
+			"value": "aaaaa",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "userLoginEmail",
+			"value": "",
+			"type": "default",
+			"enabled": false
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2024-03-12T20:42:02.498Z",
+	"_postman_exported_using": "Postman/10.23.12"
+}
